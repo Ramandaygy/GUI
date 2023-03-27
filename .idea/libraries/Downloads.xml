@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Downloads">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+  </library>
+</component>
